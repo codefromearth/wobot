@@ -5,7 +5,7 @@ body{
 }
 .center-container {
     display: flex;
-  
+    padding:30px;
     justify-content: center;
     align-items: center;
     height: 100vh; 
@@ -35,7 +35,7 @@ body{
   }
   
   .form-group {
-    margin: -5px;
+    margin: 5px;
   }
   
   .form-group label {
